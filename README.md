@@ -1,3 +1,5 @@
+![Uploading gppp.png…]()
+
 # 💫 About Me:
 I am a Business oF Information Technology (BIT) student with strong skills in HTML, CSS, and JavaScript. I am also advancing my knowledge in Python to expand my technical abilities.<br>As a fast learner and problem solver, I enjoy tackling challenges and creating innovative solutions in the tech world.<br><br>
 
