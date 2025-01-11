@@ -3,8 +3,8 @@ I am a Business oF Information Technology (BIT) student with strong skills in HT
 
 
 ## 🌐 Socials:
-[![image](https://github.com/user-attachments/assets/fa9d482b-1e06-43fb-bb46-bf8227ee30d6)
-](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Priyanshu Karn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PRIYANSHU KARN) 
+![image](https://github.com/user-attachments/assets/a2e14525-bb3b-44dc-a716-c55118d26301)
+(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Priyanshu Karn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PRIYANSHU KARN) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
