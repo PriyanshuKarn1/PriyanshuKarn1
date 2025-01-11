@@ -1,4 +1,4 @@
-![Uploading gppp.png…]()
+![gppp](https://github.com/user-attachments/assets/e2af1b3c-32a4-4f24-8ca9-71431866d6e8)
 
 # 💫 About Me:
 I am a Business oF Information Technology (BIT) student with strong skills in HTML, CSS, and JavaScript. I am also advancing my knowledge in Python to expand my technical abilities.<br>As a fast learner and problem solver, I enjoy tackling challenges and creating innovative solutions in the tech world.<br><br>
