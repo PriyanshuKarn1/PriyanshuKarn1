@@ -3,7 +3,7 @@ I am a Business oF Information Technology (BIT) student with strong skills in HT
 
 
 ## 🌐 Socials:
-LinkedIN : (https://linkedin.com/in/Priyanshu Karn) 
+Linkedin : (www.linkedin.com/in/7priyanshukarn) 
 Twitter : (https://x.com/PRIYANSHU KARN) 
 
 # 💻 Tech Stack:
