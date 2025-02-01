@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Karn</h1>
-<h3 align="center">Crafting seamless digital experiences from the heart of Nepal</h3>
+<h3 align="center">Crafting seamless digital experiences from the heart of Nepal✨</h3>
 
 ![ghhk](https://github.com/user-attachments/assets/70559755-3f47-4a7d-82a0-deba410d5931)
 
