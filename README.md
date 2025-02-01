@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Karn</h1>
 <h3 align="center">Crafting seamless digital experiences from the heart of Nepal</h3>
 
+![ghhk](https://github.com/user-attachments/assets/70559755-3f47-4a7d-82a0-deba410d5931)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanshukarn1" alt="priyanshukarn1" /></a> </p>
 
 - 🌱 I’m currently learning **React_JS**
