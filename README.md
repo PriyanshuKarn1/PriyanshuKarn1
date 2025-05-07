@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React_JS**
 
-- 💬 Ask me about **HTML , CSS , TAILWIND**
+- 💬 Ask me about **HTML , CSS , TAILWIND , JAVASCRIPT**
 
 - 📫 How to reach me **7priyanshu.karn@gmail.com**
 
